@@ -1,5 +1,11 @@
 # Two Way IterleavingIterator
 
+## Infographic
+I wanted to solve this
+<p align="center">
+    <image src="https://raw.githubusercontent.com/robert-irribarren/InterleavingIterator/master/design.png"/>
+</p>
+
 ## Features
 - Iterating with `next()` 
 - Iterating with `prev()`
