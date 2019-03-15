@@ -1,7 +1,7 @@
 # Two Way IterleavingIterator
 
 ## Infographic
-I wanted to solve this
+I wanted to solve iterating across multiple iterators with a round-robin fashion.
 <p align="center">
     <image src="https://raw.githubusercontent.com/robert-irribarren/InterleavingIterator/master/design.png"/>
 </p>
