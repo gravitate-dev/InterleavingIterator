@@ -1,5 +1,11 @@
 # Two Way IterleavingIterator
 
+## Features
+- Iterating with `next()` 
+- Iterating with `prev()`
+- Check prev with `hasPrev()`
+- Check next with `hasNext()`
+
 ## Usage
 
 ```
